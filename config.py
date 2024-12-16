@@ -247,8 +247,8 @@ model_args = {
         "model_args": {
             "windows_size": 3,
             "batch_size": 1,
-            "red_sequence_len": 7,
-            "sequence_len": 7,
+            "red_sequence_len": 6,
+            "sequence_len": 6,
             "red_n_class": 10,
             "red_epochs": 1,
             "red_embedding_size": 10,
